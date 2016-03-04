@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Shopkeeper Assignment</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="log_out">Log Out</string>
+    <string name="name">Name</string>
+    <string name="mail">Email</string>
+    <string name="mobile">Phone no</string>
+    <string name="pass">Password</string>
+    <string name="add_new">Add new Customer</string>
+    <string name="address">Address</string>
+    <string name="add">Add</string>
+
+
+
+</resources>
